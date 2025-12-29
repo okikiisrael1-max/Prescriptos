@@ -1,0 +1,11 @@
+@import "tailwindcss";
+*{
+    font-family: "Outfit", sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+.active{
+  color: #3b82f6; /* Tailwind's blue-500 */
+  border-bottom: 3px solid;
+}
